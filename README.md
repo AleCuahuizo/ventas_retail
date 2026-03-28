@@ -55,3 +55,6 @@ Se deben optimizar estrategias de descuento para evitar pérdida de rentabilidad
 ### **Conclusión**
 
 Finalmente, el análisis muestra que los ingresos están impulsados principalmente por productos de alto valor y ciertas temporadas, mientras que factores como descuentos y calificaciones no tienen un impacto directo significativo. Esto sugiere que la estrategia comercial debe centrarse en optimización de precios, segmentación de clientes y estacionalidad.
+
+**Vista previa del dashboard**
+![Dashboard](dash.png)
